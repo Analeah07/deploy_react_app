@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Analeah07/deploy_react_app.git/static/css/main.3ed218c1.css",
+    "main.js": "/Analeah07/deploy_react_app.git/static/js/main.22424c9c.js",
+    "static/js/787.b701888c.chunk.js": "/Analeah07/deploy_react_app.git/static/js/787.b701888c.chunk.js",
+    "index.html": "/Analeah07/deploy_react_app.git/index.html",
+    "main.3ed218c1.css.map": "/Analeah07/deploy_react_app.git/static/css/main.3ed218c1.css.map",
+    "main.22424c9c.js.map": "/Analeah07/deploy_react_app.git/static/js/main.22424c9c.js.map",
+    "787.b701888c.chunk.js.map": "/Analeah07/deploy_react_app.git/static/js/787.b701888c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ed218c1.css",
+    "static/js/main.22424c9c.js"
+  ]
+}
